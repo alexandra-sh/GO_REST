@@ -1,0 +1,6 @@
+AUTH_TOKEN = 'Bearer 1025a59f12c03d7490e32c51cb6401df497d9f20c7b05e1ef496cda2a3ceced9'
+BASIC_URL = 'https://gorest.co.in/public/v2'
+USERS = BASIC_URL + '/users'
+MAX_USERS = '?page=1&per_page=100'
+NEW_USER_NAME = 'Neil Gaiman'
+NEW_USER_EMAIL = 'neilhimself@neilgaiman.com'
